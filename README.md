@@ -6,6 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/Projete2020-Equipe1301?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/Projete2020-Equipe1301?style=for-the-badge)
 
+
 <h3>Clique <a href="https://www.youtube.com/watch?v=oc6nMRU68TE&t=1s">aqui</a> para asssitir o vídeo de explicação</h3>
 
 > O nosso projeto de 2020, foi um carrinho de controle remoto divertido, de baixo custo e com faróis automatizados.
