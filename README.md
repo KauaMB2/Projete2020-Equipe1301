@@ -34,5 +34,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## Clique na foto abaixo para acessar nosso diário de bordo
 
-<h3>Clique na foto abaixo para entrar acessar nosso diário de bordo: </h3>
 <center><a href="https://www.evernote.com/shard/s713/sh/d125931a-4eb5-499c-8322-a7acde7974bc/f0a80785d515f408d7847a0a3c3eab3d"><img src="img\imgEvernote.png" class="img" width = 600 height = 320></a> </center>
