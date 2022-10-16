@@ -23,7 +23,7 @@ Developed points and possible improvements:
 
 ## 🤝 Contributors
 
-to the following people who for this project:
+I would like to thank the following people for this project:
 
 <h5>
 <li>Felipe Adriano Gois;
