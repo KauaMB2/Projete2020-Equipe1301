@@ -6,7 +6,6 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/Projete2020-Equipe1301?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/Projete2020-Equipe1301?style=for-the-badge)
 
-
 <h3>Click <a href="https://www.youtube.com/watch?v=oc6nMRU68TE&t=1s">here</a> for watch the project presentation</h3>
 
 > Our 2020 project was a fun, low-cost remote control cart with specific solutions.
@@ -19,7 +18,7 @@ Developed points and possible improvements:
 - [x] Control(wired) for targeting
 - [x] Servo motor and DC motors
 - [x] LCD, Arduino and Relay
-- [ ] Control(wireless) for targeting
+- [ ] Wireless controlling
 
 ## 🤝 Contributors
 
